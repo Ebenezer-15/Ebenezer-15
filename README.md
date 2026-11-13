@@ -6,7 +6,7 @@
 ⚡ CS Grad👨🏾‍🎓🎓 <br />
 📚 Learning Laravel <br />
 💬 Ask me about JavaScript <br />
-🌱 I mostly hangout with Laravel|Nodejs && Next.js </br>
+🌱 I mostly hangout with Laravel|Nodejs & Next.js </br>
 ⚡ Fun fact: Jesus is King👑 <br />
  How to reach me:  <a href="mailto:ebenezerosaerhabor@gmail.com?">ebenezerosaerhabor@gmail.com</a></br>
  
